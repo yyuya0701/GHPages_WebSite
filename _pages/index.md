@@ -75,5 +75,6 @@ permalink: /
 | 130 | 佐藤　 蓮 |
 | 131 | べタンセス |
 | 132 | マルティネス |
+|-----|-----|
 
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
